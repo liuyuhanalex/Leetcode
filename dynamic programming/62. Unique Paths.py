@@ -1,5 +1,6 @@
 import numpy as np
 
+
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
         # dp[x][y] 到达坐标x,y 可选的路径条数
