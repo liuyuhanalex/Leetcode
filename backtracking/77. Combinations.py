@@ -12,8 +12,13 @@ class Solution:
         """"""
         if len(self.path) == k:
             self.result.append(copy.deepcopy(self.path))
+            print(self.result)
             return
         for i in range(start_index, n+1):
             self.path.append(i)
             self.backtracking(n, k, i+1)
             self.path.pop(-1)
+
+
+if __name__ == '__main__':
+    Solution().combine(6, 4)

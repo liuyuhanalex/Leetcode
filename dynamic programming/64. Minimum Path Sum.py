@@ -15,5 +15,5 @@ class Solution:
 
 
 if __name__ == '__main__':
-    print(Solution().minPathSum([[1,3,1],[1,5,1],[4,2,1]]))
+    print(Solution().minPathSum([[1, 3, 1], [1, 5, 1], [4, 2, 1]]))
     print(Solution().minPathSum([[1]]))
