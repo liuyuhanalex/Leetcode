@@ -140,7 +140,10 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[1046]Last Stone Weight.md" />
+              <option name="frontendQuestionId" value="leetcode.com1046" />
+              <option name="host" value="leetcode.com" />
               <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[1046]Last Stone Weight.py" />
+              <option name="titleSlug" value="last-stone-weight" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -249,6 +252,17 @@
             <LeetcodeEditor>
               <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[1079]Letter Tile Possibilities.md" />
               <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[1079]Letter Tile Possibilities.py" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[1081]Smallest Subsequence of Distinct Characters.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[1081]Smallest Subsequence of Distinct Characters.md" />
+              <option name="frontendQuestionId" value="leetcode.com1081" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[1081]Smallest Subsequence of Distinct Characters.py" />
+              <option name="titleSlug" value="smallest-subsequence-of-distinct-characters" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -404,11 +418,44 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[1146]Snapshot Array.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[1146]Snapshot Array.md" />
+              <option name="frontendQuestionId" value="leetcode.com1146" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[1146]Snapshot Array.py" />
+              <option name="titleSlug" value="snapshot-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[114]Flatten Binary Tree to Linked List.py">
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[114]Flatten Binary Tree to Linked List.md" />
               <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[114]Flatten Binary Tree to Linked List.py" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[1152]Analyze User Website Visit Pattern.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[1152]Analyze User Website Visit Pattern.md" />
+              <option name="frontendQuestionId" value="leetcode.com1152" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[1152]Analyze User Website Visit Pattern.py" />
+              <option name="titleSlug" value="analyze-user-website-visit-pattern" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[1158]Market Analysis I.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[1158]Market Analysis I.md" />
+              <option name="frontendQuestionId" value="leetcode.com1158" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[1158]Market Analysis I.py" />
+              <option name="titleSlug" value="market-analysis-i" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -458,6 +505,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[1206]Design Skiplist.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[1206]Design Skiplist.md" />
+              <option name="frontendQuestionId" value="leetcode.com1206" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[1206]Design Skiplist.py" />
+              <option name="titleSlug" value="design-skiplist" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[1208]Get Equal Substrings Within Budget.py">
           <value>
             <LeetcodeEditor>
@@ -466,6 +524,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[1208]Get Equal Substrings Within Budget.py" />
               <option name="titleSlug" value="get-equal-substrings-within-budget" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[1209]Remove All Adjacent Duplicates in String II.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[1209]Remove All Adjacent Duplicates in String II.md" />
+              <option name="frontendQuestionId" value="leetcode.com1209" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[1209]Remove All Adjacent Duplicates in String II.py" />
+              <option name="titleSlug" value="remove-all-adjacent-duplicates-in-string-ii" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -573,6 +642,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[1268]Search Suggestions System.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[1268]Search Suggestions System.md" />
+              <option name="frontendQuestionId" value="leetcode.com1268" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[1268]Search Suggestions System.py" />
+              <option name="titleSlug" value="search-suggestions-system" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[1270]All People Report to the Given Manager.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[1270]All People Report to the Given Manager.md" />
+              <option name="frontendQuestionId" value="leetcode.com1270" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[1270]All People Report to the Given Manager.py" />
+              <option name="titleSlug" value="all-people-report-to-the-given-manager" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[1277]Count Square Submatrices with All Ones.py">
           <value>
             <LeetcodeEditor>
@@ -634,7 +725,10 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[12]Integer to Roman.md" />
+              <option name="frontendQuestionId" value="leetcode.com12" />
+              <option name="host" value="leetcode.com" />
               <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[12]Integer to Roman.py" />
+              <option name="titleSlug" value="integer-to-roman" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -805,6 +899,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[1422]Maximum Score After Splitting a String.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[1422]Maximum Score After Splitting a String.md" />
+              <option name="frontendQuestionId" value="leetcode.com1422" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[1422]Maximum Score After Splitting a String.py" />
+              <option name="titleSlug" value="maximum-score-after-splitting-a-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[142]Linked List Cycle II.py">
           <value>
             <LeetcodeEditor>
@@ -914,6 +1019,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[1479]Sales by Day of the Week.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[1479]Sales by Day of the Week.md" />
+              <option name="frontendQuestionId" value="leetcode.com1479" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[1479]Sales by Day of the Week.py" />
+              <option name="titleSlug" value="sales-by-day-of-the-week" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[147]Insertion Sort List.py">
           <value>
             <LeetcodeEditor>
@@ -999,6 +1115,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[1507]Reformat Date.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[1507]Reformat Date.md" />
+              <option name="frontendQuestionId" value="leetcode.com1507" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[1507]Reformat Date.py" />
+              <option name="titleSlug" value="reformat-date" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[151]Reverse Words in a String.py">
           <value>
             <LeetcodeEditor>
@@ -1034,6 +1161,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[153]Find Minimum in Rotated Sorted Array.py" />
               <option name="titleSlug" value="find-minimum-in-rotated-sorted-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[1541]Minimum Insertions to Balance a Parentheses String.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[1541]Minimum Insertions to Balance a Parentheses String.md" />
+              <option name="frontendQuestionId" value="leetcode.com1541" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[1541]Minimum Insertions to Balance a Parentheses String.py" />
+              <option name="titleSlug" value="minimum-insertions-to-balance-a-parentheses-string" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1081,6 +1219,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[156]Binary Tree Upside Down.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[156]Binary Tree Upside Down.md" />
+              <option name="frontendQuestionId" value="leetcode.com156" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[156]Binary Tree Upside Down.py" />
+              <option name="titleSlug" value="binary-tree-upside-down" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[1570]Dot Product of Two Sparse Vectors.py">
           <value>
             <LeetcodeEditor>
@@ -1089,6 +1238,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[1570]Dot Product of Two Sparse Vectors.py" />
               <option name="titleSlug" value="dot-product-of-two-sparse-vectors" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[157]Read N Characters Given Read4.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[157]Read N Characters Given Read4.md" />
+              <option name="frontendQuestionId" value="leetcode.com157" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[157]Read N Characters Given Read4.py" />
+              <option name="titleSlug" value="read-n-characters-given-read4" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1259,6 +1419,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[1675]Minimize Deviation in Array.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[1675]Minimize Deviation in Array.md" />
+              <option name="frontendQuestionId" value="leetcode.com1675" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[1675]Minimize Deviation in Array.py" />
+              <option name="titleSlug" value="minimize-deviation-in-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[1689]Partitioning Into Minimum Number Of Deci-Binary Numbers.py">
           <value>
             <LeetcodeEditor>
@@ -1281,6 +1452,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[1692]Count Ways to Distribute Candies.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[1692]Count Ways to Distribute Candies.md" />
+              <option name="frontendQuestionId" value="leetcode.com1692" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[1692]Count Ways to Distribute Candies.py" />
+              <option name="titleSlug" value="count-ways-to-distribute-candies" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[16]3Sum Closest.py">
           <value>
             <LeetcodeEditor>
@@ -1289,6 +1471,28 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[16]3Sum Closest.py" />
               <option name="titleSlug" value="3sum-closest" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[1710]Maximum Units on a Truck.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[1710]Maximum Units on a Truck.md" />
+              <option name="frontendQuestionId" value="leetcode.com1710" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[1710]Maximum Units on a Truck.py" />
+              <option name="titleSlug" value="maximum-units-on-a-truck" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[1714]Sum Of Special Evenly-Spaced Elements In Array.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[1714]Sum Of Special Evenly-Spaced Elements In Array.md" />
+              <option name="frontendQuestionId" value="leetcode.com1714" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[1714]Sum Of Special Evenly-Spaced Elements In Array.py" />
+              <option name="titleSlug" value="sum-of-special-evenly-spaced-elements-in-array" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1617,6 +1821,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[1963]Minimum Number of Swaps to Make the String Balanced.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[1963]Minimum Number of Swaps to Make the String Balanced.md" />
+              <option name="frontendQuestionId" value="leetcode.com1963" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[1963]Minimum Number of Swaps to Make the String Balanced.py" />
+              <option name="titleSlug" value="minimum-number-of-swaps-to-make-the-string-balanced" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[196]Delete Duplicate Emails.py">
           <value>
             <LeetcodeEditor>
@@ -1776,6 +1991,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2086]Minimum Number of Buckets Required to Collect Rainwater from Houses.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2086]Minimum Number of Buckets Required to Collect Rainwater from Houses.md" />
+              <option name="frontendQuestionId" value="leetcode.com2086" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2086]Minimum Number of Buckets Required to Collect Rainwater from Houses.py" />
+              <option name="titleSlug" value="minimum-number-of-buckets-required-to-collect-rainwater-from-houses" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2099]Find Subsequence of Length K With the Largest Sum.py">
           <value>
             <LeetcodeEditor>
@@ -1795,6 +2021,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2100]Find Good Days to Rob the Bank.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2100]Find Good Days to Rob the Bank.md" />
+              <option name="frontendQuestionId" value="leetcode.com2100" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2100]Find Good Days to Rob the Bank.py" />
+              <option name="titleSlug" value="find-good-days-to-rob-the-bank" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2104]Sum of Subarray Ranges.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2104]Sum of Subarray Ranges.md" />
+              <option name="frontendQuestionId" value="leetcode.com2104" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2104]Sum of Subarray Ranges.py" />
+              <option name="titleSlug" value="sum-of-subarray-ranges" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[210]Course Schedule II.py">
           <value>
             <LeetcodeEditor>
@@ -1803,6 +2051,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[210]Course Schedule II.py" />
               <option name="titleSlug" value="course-schedule-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2110]Number of Smooth Descent Periods of a Stock.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2110]Number of Smooth Descent Periods of a Stock.md" />
+              <option name="frontendQuestionId" value="leetcode.com2110" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2110]Number of Smooth Descent Periods of a Stock.py" />
+              <option name="titleSlug" value="number-of-smooth-descent-periods-of-a-stock" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1825,6 +2084,83 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2121]Intervals Between Identical Elements.py" />
               <option name="titleSlug" value="intervals-between-identical-elements" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2124]Check if All A's Appears Before All B's.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2124]Check if All A's Appears Before All B's.md" />
+              <option name="frontendQuestionId" value="leetcode.com2124" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2124]Check if All A's Appears Before All B's.py" />
+              <option name="titleSlug" value="check-if-all-as-appears-before-all-bs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2125]Number of Laser Beams in a Bank.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2125]Number of Laser Beams in a Bank.md" />
+              <option name="frontendQuestionId" value="leetcode.com2125" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2125]Number of Laser Beams in a Bank.py" />
+              <option name="titleSlug" value="number-of-laser-beams-in-a-bank" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2129]Capitalize the Title.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2129]Capitalize the Title.md" />
+              <option name="frontendQuestionId" value="leetcode.com2129" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2129]Capitalize the Title.py" />
+              <option name="titleSlug" value="capitalize-the-title" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2130]Maximum Twin Sum of a Linked List.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2130]Maximum Twin Sum of a Linked List.md" />
+              <option name="frontendQuestionId" value="leetcode.com2130" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2130]Maximum Twin Sum of a Linked List.py" />
+              <option name="titleSlug" value="maximum-twin-sum-of-a-linked-list" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2131]Longest Palindrome by Concatenating Two Letter Words.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2131]Longest Palindrome by Concatenating Two Letter Words.md" />
+              <option name="frontendQuestionId" value="leetcode.com2131" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2131]Longest Palindrome by Concatenating Two Letter Words.py" />
+              <option name="titleSlug" value="longest-palindrome-by-concatenating-two-letter-words" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2132]Stamping the Grid.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2132]Stamping the Grid.md" />
+              <option name="frontendQuestionId" value="leetcode.com2132" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2132]Stamping the Grid.py" />
+              <option name="titleSlug" value="stamping-the-grid" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2133]Check if Every Row and Column Contains All Numbers.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2133]Check if Every Row and Column Contains All Numbers.md" />
+              <option name="frontendQuestionId" value="leetcode.com2133" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2133]Check if Every Row and Column Contains All Numbers.py" />
+              <option name="titleSlug" value="check-if-every-row-and-column-contains-all-numbers" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1861,6 +2197,50 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2144]Minimum Cost of Buying Candies With Discount.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2144]Minimum Cost of Buying Candies With Discount.md" />
+              <option name="frontendQuestionId" value="leetcode.com2144" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2144]Minimum Cost of Buying Candies With Discount.py" />
+              <option name="titleSlug" value="minimum-cost-of-buying-candies-with-discount" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2145]Count the Hidden Sequences.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2145]Count the Hidden Sequences.md" />
+              <option name="frontendQuestionId" value="leetcode.com2145" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2145]Count the Hidden Sequences.py" />
+              <option name="titleSlug" value="count-the-hidden-sequences" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2147]Number of Ways to Divide a Long Corridor.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2147]Number of Ways to Divide a Long Corridor.md" />
+              <option name="frontendQuestionId" value="leetcode.com2147" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2147]Number of Ways to Divide a Long Corridor.py" />
+              <option name="titleSlug" value="number-of-ways-to-divide-a-long-corridor" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2152]Minimum Number of Lines to Cover Points.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2152]Minimum Number of Lines to Cover Points.md" />
+              <option name="frontendQuestionId" value="leetcode.com2152" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2152]Minimum Number of Lines to Cover Points.py" />
+              <option name="titleSlug" value="minimum-number-of-lines-to-cover-points" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2154]Keep Multiplying Found Values by Two.py">
           <value>
             <LeetcodeEditor>
@@ -1883,11 +2263,264 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2160]Minimum Sum of Four Digit Number After Splitting Digits.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2160]Minimum Sum of Four Digit Number After Splitting Digits.md" />
+              <option name="frontendQuestionId" value="leetcode.com2160" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2160]Minimum Sum of Four Digit Number After Splitting Digits.py" />
+              <option name="titleSlug" value="minimum-sum-of-four-digit-number-after-splitting-digits" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2161]Partition Array According to Given Pivot.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2161]Partition Array According to Given Pivot.md" />
+              <option name="frontendQuestionId" value="leetcode.com2161" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2161]Partition Array According to Given Pivot.py" />
+              <option name="titleSlug" value="partition-array-according-to-given-pivot" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2162]Minimum Cost to Set Cooking Time.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2162]Minimum Cost to Set Cooking Time.md" />
+              <option name="frontendQuestionId" value="leetcode.com2162" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2162]Minimum Cost to Set Cooking Time.py" />
+              <option name="titleSlug" value="minimum-cost-to-set-cooking-time" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2165]Smallest Value of the Rearranged Number.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2165]Smallest Value of the Rearranged Number.md" />
+              <option name="frontendQuestionId" value="leetcode.com2165" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2165]Smallest Value of the Rearranged Number.py" />
+              <option name="titleSlug" value="smallest-value-of-the-rearranged-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2169]Count Operations to Obtain Zero.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2169]Count Operations to Obtain Zero.md" />
+              <option name="frontendQuestionId" value="leetcode.com2169" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2169]Count Operations to Obtain Zero.py" />
+              <option name="titleSlug" value="count-operations-to-obtain-zero" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2170]Minimum Operations to Make the Array Alternating.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2170]Minimum Operations to Make the Array Alternating.md" />
+              <option name="frontendQuestionId" value="leetcode.com2170" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2170]Minimum Operations to Make the Array Alternating.py" />
+              <option name="titleSlug" value="minimum-operations-to-make-the-array-alternating" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2176]Count Equal and Divisible Pairs in an Array.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2176]Count Equal and Divisible Pairs in an Array.md" />
+              <option name="frontendQuestionId" value="leetcode.com2176" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2176]Count Equal and Divisible Pairs in an Array.py" />
+              <option name="titleSlug" value="count-equal-and-divisible-pairs-in-an-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2177]Find Three Consecutive Integers That Sum to a Given Number.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2177]Find Three Consecutive Integers That Sum to a Given Number.md" />
+              <option name="frontendQuestionId" value="leetcode.com2177" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2177]Find Three Consecutive Integers That Sum to a Given Number.py" />
+              <option name="titleSlug" value="find-three-consecutive-integers-that-sum-to-a-given-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2178]Maximum Split of Positive Even Integers.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2178]Maximum Split of Positive Even Integers.md" />
+              <option name="frontendQuestionId" value="leetcode.com2178" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2178]Maximum Split of Positive Even Integers.py" />
+              <option name="titleSlug" value="maximum-split-of-positive-even-integers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2179]Count Good Triplets in an Array.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2179]Count Good Triplets in an Array.md" />
+              <option name="frontendQuestionId" value="leetcode.com2179" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2179]Count Good Triplets in an Array.py" />
+              <option name="titleSlug" value="count-good-triplets-in-an-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2180]Count Integers With Even Digit Sum.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2180]Count Integers With Even Digit Sum.md" />
+              <option name="frontendQuestionId" value="leetcode.com2180" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2180]Count Integers With Even Digit Sum.py" />
+              <option name="titleSlug" value="count-integers-with-even-digit-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2181]Merge Nodes in Between Zeros.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2181]Merge Nodes in Between Zeros.md" />
+              <option name="frontendQuestionId" value="leetcode.com2181" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2181]Merge Nodes in Between Zeros.py" />
+              <option name="titleSlug" value="merge-nodes-in-between-zeros" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2185]Counting Words With a Given Prefix.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2185]Counting Words With a Given Prefix.md" />
+              <option name="frontendQuestionId" value="leetcode.com2185" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2185]Counting Words With a Given Prefix.py" />
+              <option name="titleSlug" value="counting-words-with-a-given-prefix" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2186]Minimum Number of Steps to Make Two Strings Anagram II.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2186]Minimum Number of Steps to Make Two Strings Anagram II.md" />
+              <option name="frontendQuestionId" value="leetcode.com2186" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2186]Minimum Number of Steps to Make Two Strings Anagram II.py" />
+              <option name="titleSlug" value="minimum-number-of-steps-to-make-two-strings-anagram-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2187]Minimum Time to Complete Trips.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2187]Minimum Time to Complete Trips.md" />
+              <option name="frontendQuestionId" value="leetcode.com2187" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2187]Minimum Time to Complete Trips.py" />
+              <option name="titleSlug" value="minimum-time-to-complete-trips" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2190]Most Frequent Number Following Key In an Array.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2190]Most Frequent Number Following Key In an Array.md" />
+              <option name="frontendQuestionId" value="leetcode.com2190" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2190]Most Frequent Number Following Key In an Array.py" />
+              <option name="titleSlug" value="most-frequent-number-following-key-in-an-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2191]Sort the Jumbled Numbers.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2191]Sort the Jumbled Numbers.md" />
+              <option name="frontendQuestionId" value="leetcode.com2191" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2191]Sort the Jumbled Numbers.py" />
+              <option name="titleSlug" value="sort-the-jumbled-numbers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2192]All Ancestors of a Node in a Directed Acyclic Graph.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2192]All Ancestors of a Node in a Directed Acyclic Graph.md" />
+              <option name="frontendQuestionId" value="leetcode.com2192" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2192]All Ancestors of a Node in a Directed Acyclic Graph.py" />
+              <option name="titleSlug" value="all-ancestors-of-a-node-in-a-directed-acyclic-graph" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2193]Minimum Number of Moves to Make Palindrome.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2193]Minimum Number of Moves to Make Palindrome.md" />
+              <option name="frontendQuestionId" value="leetcode.com2193" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2193]Minimum Number of Moves to Make Palindrome.py" />
+              <option name="titleSlug" value="minimum-number-of-moves-to-make-palindrome" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2198]Number of Single Divisor Triplets.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2198]Number of Single Divisor Triplets.md" />
+              <option name="frontendQuestionId" value="leetcode.com2198" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2198]Number of Single Divisor Triplets.py" />
+              <option name="titleSlug" value="number-of-single-divisor-triplets" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[219]Contains Duplicate II.py">
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[219]Contains Duplicate II.md" />
               <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[219]Contains Duplicate II.py" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2202]Maximize the Topmost Element After K Moves.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2202]Maximize the Topmost Element After K Moves.md" />
+              <option name="frontendQuestionId" value="leetcode.com2202" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2202]Maximize the Topmost Element After K Moves.py" />
+              <option name="titleSlug" value="maximize-the-topmost-element-after-k-moves" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2205]The Number of Users That Are Eligible for Discount.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2205]The Number of Users That Are Eligible for Discount.md" />
+              <option name="frontendQuestionId" value="leetcode.com2205" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2205]The Number of Users That Are Eligible for Discount.py" />
+              <option name="titleSlug" value="the-number-of-users-that-are-eligible-for-discount" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2209]Minimum White Tiles After Covering With Carpets.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2209]Minimum White Tiles After Covering With Carpets.md" />
+              <option name="frontendQuestionId" value="leetcode.com2209" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2209]Minimum White Tiles After Covering With Carpets.py" />
+              <option name="titleSlug" value="minimum-white-tiles-after-covering-with-carpets" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1902,6 +2535,358 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2210]Count Hills and Valleys in an Array.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2210]Count Hills and Valleys in an Array.md" />
+              <option name="frontendQuestionId" value="leetcode.com2210" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2210]Count Hills and Valleys in an Array.py" />
+              <option name="titleSlug" value="count-hills-and-valleys-in-an-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2211]Count Collisions on a Road.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2211]Count Collisions on a Road.md" />
+              <option name="frontendQuestionId" value="leetcode.com2211" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2211]Count Collisions on a Road.py" />
+              <option name="titleSlug" value="count-collisions-on-a-road" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2212]Maximum Points in an Archery Competition.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2212]Maximum Points in an Archery Competition.md" />
+              <option name="frontendQuestionId" value="leetcode.com2212" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2212]Maximum Points in an Archery Competition.py" />
+              <option name="titleSlug" value="maximum-points-in-an-archery-competition" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2213]Longest Substring of One Repeating Character.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2213]Longest Substring of One Repeating Character.md" />
+              <option name="frontendQuestionId" value="leetcode.com2213" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2213]Longest Substring of One Repeating Character.py" />
+              <option name="titleSlug" value="longest-substring-of-one-repeating-character" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2214]Minimum Health to Beat Game.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2214]Minimum Health to Beat Game.md" />
+              <option name="frontendQuestionId" value="leetcode.com2214" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2214]Minimum Health to Beat Game.py" />
+              <option name="titleSlug" value="minimum-health-to-beat-game" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2216]Minimum Deletions to Make Array Beautiful.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2216]Minimum Deletions to Make Array Beautiful.md" />
+              <option name="frontendQuestionId" value="leetcode.com2216" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2216]Minimum Deletions to Make Array Beautiful.py" />
+              <option name="titleSlug" value="minimum-deletions-to-make-array-beautiful" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2217]Find Palindrome With Fixed Length.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2217]Find Palindrome With Fixed Length.md" />
+              <option name="frontendQuestionId" value="leetcode.com2217" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2217]Find Palindrome With Fixed Length.py" />
+              <option name="titleSlug" value="find-palindrome-with-fixed-length" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2218]Maximum Value of K Coins From Piles.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2218]Maximum Value of K Coins From Piles.md" />
+              <option name="frontendQuestionId" value="leetcode.com2218" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2218]Maximum Value of K Coins From Piles.py" />
+              <option name="titleSlug" value="maximum-value-of-k-coins-from-piles" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2219]Maximum Sum Score of Array.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2219]Maximum Sum Score of Array.md" />
+              <option name="frontendQuestionId" value="leetcode.com2219" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2219]Maximum Sum Score of Array.py" />
+              <option name="titleSlug" value="maximum-sum-score-of-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2220]Minimum Bit Flips to Convert Number.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2220]Minimum Bit Flips to Convert Number.md" />
+              <option name="frontendQuestionId" value="leetcode.com2220" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2220]Minimum Bit Flips to Convert Number.py" />
+              <option name="titleSlug" value="minimum-bit-flips-to-convert-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2221]Find Triangular Sum of an Array.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2221]Find Triangular Sum of an Array.md" />
+              <option name="frontendQuestionId" value="leetcode.com2221" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2221]Find Triangular Sum of an Array.py" />
+              <option name="titleSlug" value="find-triangular-sum-of-an-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2222]Number of Ways to Select Buildings.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2222]Number of Ways to Select Buildings.md" />
+              <option name="frontendQuestionId" value="leetcode.com2222" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2222]Number of Ways to Select Buildings.py" />
+              <option name="titleSlug" value="number-of-ways-to-select-buildings" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2224]Minimum Number of Operations to Convert Time.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2224]Minimum Number of Operations to Convert Time.md" />
+              <option name="frontendQuestionId" value="leetcode.com2224" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2224]Minimum Number of Operations to Convert Time.py" />
+              <option name="titleSlug" value="minimum-number-of-operations-to-convert-time" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2225]Find Players With Zero or One Losses.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2225]Find Players With Zero or One Losses.md" />
+              <option name="frontendQuestionId" value="leetcode.com2225" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2225]Find Players With Zero or One Losses.py" />
+              <option name="titleSlug" value="find-players-with-zero-or-one-losses" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2226]Maximum Candies Allocated to K Children.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2226]Maximum Candies Allocated to K Children.md" />
+              <option name="frontendQuestionId" value="leetcode.com2226" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2226]Maximum Candies Allocated to K Children.py" />
+              <option name="titleSlug" value="maximum-candies-allocated-to-k-children" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2227]Encrypt and Decrypt Strings.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2227]Encrypt and Decrypt Strings.md" />
+              <option name="frontendQuestionId" value="leetcode.com2227" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2227]Encrypt and Decrypt Strings.py" />
+              <option name="titleSlug" value="encrypt-and-decrypt-strings" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2228]Users With Two Purchases Within Seven Days.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2228]Users With Two Purchases Within Seven Days.md" />
+              <option name="frontendQuestionId" value="leetcode.com2228" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2228]Users With Two Purchases Within Seven Days.py" />
+              <option name="titleSlug" value="users-with-two-purchases-within-seven-days" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2229]Check if an Array Is Consecutive.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2229]Check if an Array Is Consecutive.md" />
+              <option name="frontendQuestionId" value="leetcode.com2229" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2229]Check if an Array Is Consecutive.py" />
+              <option name="titleSlug" value="check-if-an-array-is-consecutive" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2230]The Users That Are Eligible for Discount.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2230]The Users That Are Eligible for Discount.md" />
+              <option name="frontendQuestionId" value="leetcode.com2230" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2230]The Users That Are Eligible for Discount.py" />
+              <option name="titleSlug" value="the-users-that-are-eligible-for-discount" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2231]Largest Number After Digit Swaps by Parity.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2231]Largest Number After Digit Swaps by Parity.md" />
+              <option name="frontendQuestionId" value="leetcode.com2231" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2231]Largest Number After Digit Swaps by Parity.py" />
+              <option name="titleSlug" value="largest-number-after-digit-swaps-by-parity" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2232]Minimize Result by Adding Parentheses to Expression.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2232]Minimize Result by Adding Parentheses to Expression.md" />
+              <option name="frontendQuestionId" value="leetcode.com2232" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2232]Minimize Result by Adding Parentheses to Expression.py" />
+              <option name="titleSlug" value="minimize-result-by-adding-parentheses-to-expression" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2233]Maximum Product After K Increments.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2233]Maximum Product After K Increments.md" />
+              <option name="frontendQuestionId" value="leetcode.com2233" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2233]Maximum Product After K Increments.py" />
+              <option name="titleSlug" value="maximum-product-after-k-increments" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2234]Maximum Total Beauty of the Gardens.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2234]Maximum Total Beauty of the Gardens.md" />
+              <option name="frontendQuestionId" value="leetcode.com2234" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2234]Maximum Total Beauty of the Gardens.py" />
+              <option name="titleSlug" value="maximum-total-beauty-of-the-gardens" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2235]Add Two Integers.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2235]Add Two Integers.md" />
+              <option name="frontendQuestionId" value="leetcode.com2235" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2235]Add Two Integers.py" />
+              <option name="titleSlug" value="add-two-integers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2236]Root Equals Sum of Children.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2236]Root Equals Sum of Children.md" />
+              <option name="frontendQuestionId" value="leetcode.com2236" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2236]Root Equals Sum of Children.py" />
+              <option name="titleSlug" value="root-equals-sum-of-children" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2239]Find Closest Number to Zero.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2239]Find Closest Number to Zero.md" />
+              <option name="frontendQuestionId" value="leetcode.com2239" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2239]Find Closest Number to Zero.py" />
+              <option name="titleSlug" value="find-closest-number-to-zero" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2240]Number of Ways to Buy Pens and Pencils.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2240]Number of Ways to Buy Pens and Pencils.md" />
+              <option name="frontendQuestionId" value="leetcode.com2240" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2240]Number of Ways to Buy Pens and Pencils.py" />
+              <option name="titleSlug" value="number-of-ways-to-buy-pens-and-pencils" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2241]Design an ATM Machine.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2241]Design an ATM Machine.md" />
+              <option name="frontendQuestionId" value="leetcode.com2241" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2241]Design an ATM Machine.py" />
+              <option name="titleSlug" value="design-an-atm-machine" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2242]Maximum Score of a Node Sequence.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2242]Maximum Score of a Node Sequence.md" />
+              <option name="frontendQuestionId" value="leetcode.com2242" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2242]Maximum Score of a Node Sequence.py" />
+              <option name="titleSlug" value="maximum-score-of-a-node-sequence" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2243]Calculate Digit Sum of a String.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2243]Calculate Digit Sum of a String.md" />
+              <option name="frontendQuestionId" value="leetcode.com2243" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2243]Calculate Digit Sum of a String.py" />
+              <option name="titleSlug" value="calculate-digit-sum-of-a-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2244]Minimum Rounds to Complete All Tasks.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2244]Minimum Rounds to Complete All Tasks.md" />
+              <option name="frontendQuestionId" value="leetcode.com2244" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2244]Minimum Rounds to Complete All Tasks.py" />
+              <option name="titleSlug" value="minimum-rounds-to-complete-all-tasks" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2245]Maximum Trailing Zeros in a Cornered Path.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2245]Maximum Trailing Zeros in a Cornered Path.md" />
+              <option name="frontendQuestionId" value="leetcode.com2245" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2245]Maximum Trailing Zeros in a Cornered Path.py" />
+              <option name="titleSlug" value="maximum-trailing-zeros-in-a-cornered-path" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[224]Basic Calculator.py">
           <value>
             <LeetcodeEditor>
@@ -1910,6 +2895,39 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[224]Basic Calculator.py" />
               <option name="titleSlug" value="basic-calculator" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2250]Count Number of Rectangles Containing Each Point.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2250]Count Number of Rectangles Containing Each Point.md" />
+              <option name="frontendQuestionId" value="leetcode.com2250" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2250]Count Number of Rectangles Containing Each Point.py" />
+              <option name="titleSlug" value="count-number-of-rectangles-containing-each-point" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[225]Implement Stack using Queues.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[225]Implement Stack using Queues.md" />
+              <option name="frontendQuestionId" value="leetcode.com225" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[225]Implement Stack using Queues.py" />
+              <option name="titleSlug" value="implement-stack-using-queues" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2262]Total Appeal of A String.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[2262]Total Appeal of A String.md" />
+              <option name="frontendQuestionId" value="leetcode.com2262" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[2262]Total Appeal of A String.py" />
+              <option name="titleSlug" value="total-appeal-of-a-string" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1969,7 +2987,10 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[235]Lowest Common Ancestor of a Binary Search Tree.md" />
+              <option name="frontendQuestionId" value="leetcode.com235" />
+              <option name="host" value="leetcode.com" />
               <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[235]Lowest Common Ancestor of a Binary Search Tree.py" />
+              <option name="titleSlug" value="lowest-common-ancestor-of-a-binary-search-tree" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1992,6 +3013,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[23]Merge k Sorted Lists.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[23]Merge k Sorted Lists.md" />
+              <option name="frontendQuestionId" value="leetcode.com23" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[23]Merge k Sorted Lists.py" />
+              <option name="titleSlug" value="merge-k-sorted-lists" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[240]Search a 2D Matrix II.py">
           <value>
             <LeetcodeEditor>
@@ -2007,7 +3039,10 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[241]Different Ways to Add Parentheses.md" />
+              <option name="frontendQuestionId" value="leetcode.com241" />
+              <option name="host" value="leetcode.com" />
               <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[241]Different Ways to Add Parentheses.py" />
+              <option name="titleSlug" value="different-ways-to-add-parentheses" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -2019,6 +3054,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[242]Valid Anagram.py" />
               <option name="titleSlug" value="valid-anagram" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[244]Shortest Word Distance II.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[244]Shortest Word Distance II.md" />
+              <option name="frontendQuestionId" value="leetcode.com244" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[244]Shortest Word Distance II.py" />
+              <option name="titleSlug" value="shortest-word-distance-ii" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -2090,6 +3136,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[261]Graph Valid Tree.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[261]Graph Valid Tree.md" />
+              <option name="frontendQuestionId" value="leetcode.com261" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[261]Graph Valid Tree.py" />
+              <option name="titleSlug" value="graph-valid-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[263]Ugly Number.py">
           <value>
             <LeetcodeEditor>
@@ -2128,6 +3185,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[268]Missing Number.py" />
               <option name="titleSlug" value="missing-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[273]Integer to English Words.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[273]Integer to English Words.md" />
+              <option name="frontendQuestionId" value="leetcode.com273" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[273]Integer to English Words.py" />
+              <option name="titleSlug" value="integer-to-english-words" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -2231,7 +3299,10 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[292]Nim Game.md" />
+              <option name="frontendQuestionId" value="leetcode.com292" />
+              <option name="host" value="leetcode.com" />
               <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[292]Nim Game.py" />
+              <option name="titleSlug" value="nim-game" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -2240,6 +3311,17 @@
             <LeetcodeEditor>
               <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[29]Divide Two Integers.md" />
               <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[29]Divide Two Integers.py" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[304]Range Sum Query 2D - Immutable.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[304]Range Sum Query 2D - Immutable.md" />
+              <option name="frontendQuestionId" value="leetcode.com304" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[304]Range Sum Query 2D - Immutable.py" />
+              <option name="titleSlug" value="range-sum-query-2d-immutable" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -2280,7 +3362,10 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[313]Super Ugly Number.md" />
+              <option name="frontendQuestionId" value="leetcode.com313" />
+              <option name="host" value="leetcode.com" />
               <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[313]Super Ugly Number.py" />
+              <option name="titleSlug" value="super-ugly-number" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -2424,6 +3509,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[337]House Robber III.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[337]House Robber III.md" />
+              <option name="frontendQuestionId" value="leetcode.com337" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[337]House Robber III.py" />
+              <option name="titleSlug" value="house-robber-iii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[338]Counting Bits.py">
           <value>
             <LeetcodeEditor>
@@ -2432,6 +3528,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[338]Counting Bits.py" />
               <option name="titleSlug" value="counting-bits" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[339]Nested List Weight Sum.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[339]Nested List Weight Sum.md" />
+              <option name="frontendQuestionId" value="leetcode.com339" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[339]Nested List Weight Sum.py" />
+              <option name="titleSlug" value="nested-list-weight-sum" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -2553,6 +3660,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[362]Design Hit Counter.py" />
               <option name="titleSlug" value="design-hit-counter" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[366]Find Leaves of Binary Tree.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[366]Find Leaves of Binary Tree.md" />
+              <option name="frontendQuestionId" value="leetcode.com366" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[366]Find Leaves of Binary Tree.py" />
+              <option name="titleSlug" value="find-leaves-of-binary-tree" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -2753,6 +3871,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[408]Valid Word Abbreviation.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[408]Valid Word Abbreviation.md" />
+              <option name="frontendQuestionId" value="leetcode.com408" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[408]Valid Word Abbreviation.py" />
+              <option name="titleSlug" value="valid-word-abbreviation" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[409]Longest Palindrome.py">
           <value>
             <LeetcodeEditor>
@@ -2766,6 +3895,17 @@
             <LeetcodeEditor>
               <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[412]Fizz Buzz.md" />
               <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[412]Fizz Buzz.py" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[413]Arithmetic Slices.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[413]Arithmetic Slices.md" />
+              <option name="frontendQuestionId" value="leetcode.com413" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[413]Arithmetic Slices.py" />
+              <option name="titleSlug" value="arithmetic-slices" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -2834,6 +3974,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[438]Find All Anagrams in a String.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[438]Find All Anagrams in a String.md" />
+              <option name="frontendQuestionId" value="leetcode.com438" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[438]Find All Anagrams in a String.py" />
+              <option name="titleSlug" value="find-all-anagrams-in-a-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[43]Multiply Strings.py">
           <value>
             <LeetcodeEditor>
@@ -2850,6 +4001,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[441]Arranging Coins.py" />
               <option name="titleSlug" value="arranging-coins" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[442]Find All Duplicates in an Array.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[442]Find All Duplicates in an Array.md" />
+              <option name="frontendQuestionId" value="leetcode.com442" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[442]Find All Duplicates in an Array.py" />
+              <option name="titleSlug" value="find-all-duplicates-in-an-array" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -2927,6 +4089,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[456]132 Pattern.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[456]132 Pattern.md" />
+              <option name="frontendQuestionId" value="leetcode.com456" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[456]132 Pattern.py" />
+              <option name="titleSlug" value="132-pattern" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[459]Repeated Substring Pattern.py">
           <value>
             <LeetcodeEditor>
@@ -2935,6 +4108,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[459]Repeated Substring Pattern.py" />
               <option name="titleSlug" value="repeated-substring-pattern" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[471]Encode String with Shortest Length.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[471]Encode String with Shortest Length.md" />
+              <option name="frontendQuestionId" value="leetcode.com471" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[471]Encode String with Shortest Length.py" />
+              <option name="titleSlug" value="encode-string-with-shortest-length" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -2995,6 +4179,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[485]Max Consecutive Ones.py" />
               <option name="titleSlug" value="max-consecutive-ones" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[491]Increasing Subsequences.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[491]Increasing Subsequences.md" />
+              <option name="frontendQuestionId" value="leetcode.com491" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[491]Increasing Subsequences.py" />
+              <option name="titleSlug" value="increasing-subsequences" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -3115,6 +4310,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[511]Game Play Analysis I.py" />
               <option name="titleSlug" value="game-play-analysis-i" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[512]Game Play Analysis II.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[512]Game Play Analysis II.md" />
+              <option name="frontendQuestionId" value="leetcode.com512" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[512]Game Play Analysis II.py" />
+              <option name="titleSlug" value="game-play-analysis-ii" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -3304,7 +4510,10 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[57]Insert Interval.md" />
+              <option name="frontendQuestionId" value="leetcode.com57" />
+              <option name="host" value="leetcode.com" />
               <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[57]Insert Interval.py" />
+              <option name="titleSlug" value="insert-interval" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -3392,6 +4601,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[611]Valid Triangle Number.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[611]Valid Triangle Number.md" />
+              <option name="frontendQuestionId" value="leetcode.com611" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[611]Valid Triangle Number.py" />
+              <option name="titleSlug" value="valid-triangle-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[613]Shortest Distance in a Line.py">
           <value>
             <LeetcodeEditor>
@@ -3452,6 +4672,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[636]Exclusive Time of Functions.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[636]Exclusive Time of Functions.md" />
+              <option name="frontendQuestionId" value="leetcode.com636" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[636]Exclusive Time of Functions.py" />
+              <option name="titleSlug" value="exclusive-time-of-functions" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[637]Average of Levels in Binary Tree.py">
           <value>
             <LeetcodeEditor>
@@ -3460,6 +4691,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[637]Average of Levels in Binary Tree.py" />
               <option name="titleSlug" value="average-of-levels-in-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[63]Unique Paths II.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[63]Unique Paths II.md" />
+              <option name="frontendQuestionId" value="leetcode.com63" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[63]Unique Paths II.py" />
+              <option name="titleSlug" value="unique-paths-ii" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -3599,6 +4841,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[673]Number of Longest Increasing Subsequence.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[673]Number of Longest Increasing Subsequence.md" />
+              <option name="frontendQuestionId" value="leetcode.com673" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[673]Number of Longest Increasing Subsequence.py" />
+              <option name="titleSlug" value="number-of-longest-increasing-subsequence" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[674]Longest Continuous Increasing Subsequence.py">
           <value>
             <LeetcodeEditor>
@@ -3656,6 +4909,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[680]Valid Palindrome II.py" />
               <option name="titleSlug" value="valid-palindrome-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[696]Count Binary Substrings.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[696]Count Binary Substrings.md" />
+              <option name="frontendQuestionId" value="leetcode.com696" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[696]Count Binary Substrings.py" />
+              <option name="titleSlug" value="count-binary-substrings" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -3746,6 +5010,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[707]Design Linked List.py" />
               <option name="titleSlug" value="design-linked-list" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[710]Random Pick with Blacklist.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[710]Random Pick with Blacklist.md" />
+              <option name="frontendQuestionId" value="leetcode.com710" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[710]Random Pick with Blacklist.py" />
+              <option name="titleSlug" value="random-pick-with-blacklist" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -3942,11 +5217,25 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[76]Minimum Window Substring.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[76]Minimum Window Substring.md" />
+              <option name="frontendQuestionId" value="leetcode.com76" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[76]Minimum Window Substring.py" />
+              <option name="titleSlug" value="minimum-window-substring" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[781]Rabbits in Forest.py">
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[781]Rabbits in Forest.md" />
+              <option name="frontendQuestionId" value="leetcode.com781" />
+              <option name="host" value="leetcode.com" />
               <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[781]Rabbits in Forest.py" />
+              <option name="titleSlug" value="rabbits-in-forest" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -3991,6 +5280,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[790]Domino and Tromino Tiling.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[790]Domino and Tromino Tiling.md" />
+              <option name="frontendQuestionId" value="leetcode.com790" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[790]Domino and Tromino Tiling.py" />
+              <option name="titleSlug" value="domino-and-tromino-tiling" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[796]Rotate String.py">
           <value>
             <LeetcodeEditor>
@@ -4018,6 +5318,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[799]Champagne Tower.py" />
               <option name="titleSlug" value="champagne-tower" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[801]Minimum Swaps To Make Sequences Increasing.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[801]Minimum Swaps To Make Sequences Increasing.md" />
+              <option name="frontendQuestionId" value="leetcode.com801" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[801]Minimum Swaps To Make Sequences Increasing.py" />
+              <option name="titleSlug" value="minimum-swaps-to-make-sequences-increasing" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -4100,6 +5411,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[849]Maximize Distance to Closest Person.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[849]Maximize Distance to Closest Person.md" />
+              <option name="frontendQuestionId" value="leetcode.com849" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[849]Maximize Distance to Closest Person.py" />
+              <option name="titleSlug" value="maximize-distance-to-closest-person" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[859]Buddy Strings.py">
           <value>
             <LeetcodeEditor>
@@ -4116,6 +5438,17 @@
             <LeetcodeEditor>
               <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[86]Partition List.md" />
               <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[86]Partition List.py" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[870]Advantage Shuffle.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[870]Advantage Shuffle.md" />
+              <option name="frontendQuestionId" value="leetcode.com870" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[870]Advantage Shuffle.py" />
+              <option name="titleSlug" value="advantage-shuffle" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -4149,6 +5482,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[877]Stone Game.py" />
               <option name="titleSlug" value="stone-game" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[881]Boats to Save People.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[881]Boats to Save People.md" />
+              <option name="frontendQuestionId" value="leetcode.com881" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[881]Boats to Save People.py" />
+              <option name="titleSlug" value="boats-to-save-people" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -4193,6 +5537,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[909]Snakes and Ladders.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[909]Snakes and Ladders.md" />
+              <option name="frontendQuestionId" value="leetcode.com909" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[909]Snakes and Ladders.py" />
+              <option name="titleSlug" value="snakes-and-ladders" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[916]Word Subsets.py">
           <value>
             <LeetcodeEditor>
@@ -4220,11 +5575,44 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[921]Minimum Add to Make Parentheses Valid.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[921]Minimum Add to Make Parentheses Valid.md" />
+              <option name="frontendQuestionId" value="leetcode.com921" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[921]Minimum Add to Make Parentheses Valid.py" />
+              <option name="titleSlug" value="minimum-add-to-make-parentheses-valid" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[923]3Sum With Multiplicity.py">
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[923]3Sum With Multiplicity.md" />
               <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[923]3Sum With Multiplicity.py" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[924]Minimize Malware Spread.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[924]Minimize Malware Spread.md" />
+              <option name="frontendQuestionId" value="leetcode.com924" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[924]Minimize Malware Spread.py" />
+              <option name="titleSlug" value="minimize-malware-spread" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[926]Flip String to Monotone Increasing.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[926]Flip String to Monotone Increasing.md" />
+              <option name="frontendQuestionId" value="leetcode.com926" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[926]Flip String to Monotone Increasing.py" />
+              <option name="titleSlug" value="flip-string-to-monotone-increasing" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -4241,6 +5629,28 @@
             <LeetcodeEditor>
               <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[934]Shortest Bridge.md" />
               <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[934]Shortest Bridge.py" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[937]Reorder Data in Log Files.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[937]Reorder Data in Log Files.md" />
+              <option name="frontendQuestionId" value="leetcode.com937" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[937]Reorder Data in Log Files.py" />
+              <option name="titleSlug" value="reorder-data-in-log-files" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[938]Range Sum of BST.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[938]Range Sum of BST.md" />
+              <option name="frontendQuestionId" value="leetcode.com938" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[938]Range Sum of BST.py" />
+              <option name="titleSlug" value="range-sum-of-bst" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -4292,7 +5702,10 @@
           <value>
             <LeetcodeEditor>
               <option name="contentPath" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/doc/content/[95]Unique Binary Search Trees II.md" />
+              <option name="frontendQuestionId" value="leetcode.com95" />
+              <option name="host" value="leetcode.com" />
               <option name="path" value="/var/folders/dh/rjv_z0h15ld5cww61bdfwd6m0000gn/T/leetcode/editor/en/[95]Unique Binary Search Trees II.py" />
+              <option name="titleSlug" value="unique-binary-search-trees-ii" />
             </LeetcodeEditor>
           </value>
         </entry>
